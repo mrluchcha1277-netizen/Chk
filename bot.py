@@ -12,7 +12,7 @@ from telegram.ext import (
 # CONFIGURATION
 # ==========================
 ADMIN_ID = 5692210187     # Your Admin ID
-BOT_TOKEN = "YOUR_BOT_TOKEN"   # Replace with your bot token
+BOT_TOKEN = "8362909176:AAGqjkO7ntdCKjis6-YI5G1miHqS4Sbt2u4"   # Replace with your bot token
 
 # Storage for lists
 listA = []
